@@ -4,7 +4,7 @@ Dive deep into a 2.21 GB flight data CSV, exploring specifics on airlines, fligh
 # MPI Workers analysis
 ![image](https://github.com/HaithamHany/DistributedSystemUsingMPI/assets/20623059/1629a848-660f-490b-8c0e-9cd8c88b09d9)
 
-#Multi-threading analysis
+# Multi-threading analysis
 time taken to process each chunk by each thread increases gradually, even though they are all supposed 
 to be started at almost the same time.
 For example, 1st thread finished after 17.34 seconds and the second thread finished at 22.6
